@@ -1,4 +1,4 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wkdduswl339)](https://solved.ac/wkdduswl339)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdduswl339)](https://solved.ac/wkdduswl339/)
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MillPRE)](https://github.com/MillPRE/github-readme-stats) -->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MillPRE)](https://github.com/MillPRE/github-readme-stats) -->
